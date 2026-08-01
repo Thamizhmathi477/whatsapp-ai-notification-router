@@ -1,0 +1,11 @@
+pandas>=2.0.0
+numpy>=1.24.0
+easyocr>=1.7.1
+openai-whisper
+torch
+torchvision
+torchaudio
+opencv-python
+Pillow
+scikit-learn
+tqdm
